@@ -1,6 +1,6 @@
 # social_app
 
-A new Flutter project.
+Application design type réseau social avec Flutter
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![image](https://github.com/IbraZaou/Flutter_Course/assets/107760977/9ec83446-addc-45ef-96e3-e19977f2c241)
+
+![image](https://github.com/IbraZaou/Flutter_Course/assets/107760977/f12f999c-07ff-4dda-966a-b95106370b5d)
