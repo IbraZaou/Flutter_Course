@@ -1,6 +1,7 @@
 # my_app
 
-A new Flutter project.
+Tout premier design utilisant Flutter et Dart.
+
 
 ## Getting Started
 
@@ -14,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/IbraZaou/Flutter_Course/assets/107760977/b6a03b87-e4e5-4d65-97c7-0fb0927de3eb)
