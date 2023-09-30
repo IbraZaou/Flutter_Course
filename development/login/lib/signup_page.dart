@@ -150,7 +150,7 @@ class InputSection extends StatelessWidget {
                         fontWeight: FontWeight.bold),
                     obscureText: false,
                     decoration: InputDecoration(
-                        hintText: 'Mot de passe',
+                        hintText: 'Adresse Email',
                         hintStyle: GoogleFonts.comfortaa(color: Colors.white),
                         border: InputBorder.none),
                   ),
@@ -230,9 +230,9 @@ class InputSection extends StatelessWidget {
                         fontSize: 20,
                         color: Colors.white,
                         fontWeight: FontWeight.bold),
-                    obscureText: true,
+                    obscureText: false,
                     decoration: InputDecoration(
-                        hintText: 'Mot de passe',
+                        hintText: 'Date de naissance',
                         hintStyle: GoogleFonts.comfortaa(color: Colors.white),
                         border: InputBorder.none),
                   ),
