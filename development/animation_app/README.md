@@ -1,6 +1,6 @@
 # animation_app
 
-A new Flutter project.
+Design Front Flutter d'une application de music avec animation Hero
 
 ## Getting Started
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/IbraZaou/Flutter_Course/assets/107760977/c719f818-506e-4c39-ad9c-a2ee2fdf5467)
